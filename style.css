@@ -1,0 +1,41 @@
+.main_div{
+    background-color: #7cbf9d;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+}
+.main_div label{
+    background-color: white;
+    width: 310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(9, 143, 80);
+}
+#camera{
+    box-shadow: 5px 5px 18px rgb(9, 143, 80);
+ 
+    width: 310px;
+    height: 300px; 
+    border:3px solid white;
+}
+#result{
+    box-shadow: 5px 5px 18px rgb(9, 143, 80);
+ 
+    width: 310px;
+    height: 300px; 
+    border:3px solid white;
+}
+.main_div button{
+
+    box-shadow: 5px 5px 18px rgb(9, 143, 80);
+  
+    width: 310px;
+    font-size:16px;
+    border:1px solid;
+        
+    
+}
+img{
+    height:100px;
+    width:100px;
+}
